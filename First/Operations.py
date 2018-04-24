@@ -1,0 +1,6 @@
+x = eval(input("Enter x: "))
+y = eval(input("Enter y: "))
+print("{} + {} = {}".format(x, y, x+y))
+print("{} - {} = {}".format(x, y, x-y))
+print("{} * {} = {}".format(x, y, x*y))
+print("{} / {} = {:.2f}".format(x, y, x/y))
