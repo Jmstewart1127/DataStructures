@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyPyPa-0.1.0-py2.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/First/venv/lib/python3.5/site-packages/astroid/tests/testdata/python2/data/MyPyPa-0.1.0-py2.5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
